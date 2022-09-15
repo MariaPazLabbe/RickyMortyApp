@@ -1,0 +1,17 @@
+body {
+  background-image: url("https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gif");
+  /* background-repeat: no-repeat;
+   background-size: cover; */
+}
+body .audio {
+  display: flex;
+  flex-direction: column;
+}
+
+.audio {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/* Se creo el css para editar el audio el cual se incorporo en el html y para incorporar el fondo como gift, el cual se dejo comentado otras variables del background.
